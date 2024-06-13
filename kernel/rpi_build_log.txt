@@ -1,0 +1,8 @@
+make[1]: 디렉터리 '/home/ubuntu/pi_bsp/kernel/out' 들어감
+***
+*** The source tree is not clean, please run 'make ARCH=arm mrproper'
+*** in /home/ubuntu/pi_bsp/kernel/linux
+***
+make[1]: *** [/home/ubuntu/pi_bsp/kernel/linux/Makefile:658: outputmakefile] 오류 1
+make[1]: 디렉터리 '/home/ubuntu/pi_bsp/kernel/out' 나감
+make: *** [Makefile:238: __sub-make] 오류 2
